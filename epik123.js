@@ -1,1 +1,0 @@
-window.open('https://www.youtube.com/results?search_query=sus+anime+moments+%F0%9F%A5%B5+girl+360+')
